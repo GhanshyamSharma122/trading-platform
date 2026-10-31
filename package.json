@@ -1,0 +1,20 @@
+{
+  "name": "alpha-trading-platform",
+  "version": "1.0.0",
+  "description": "Node.js trading platform for Alpha Vantage data with pluggable user strategies.",
+  "type": "module",
+  "main": "src/cli.js",
+  "scripts": {
+    "backtest": "node src/cli.js backtest",
+    "paper": "node src/cli.js paper",
+    "data": "node src/cli.js data",
+    "optimize:swing": "node src/optimizeCapitalPreservationSwing.js"
+  },
+  "keywords": [
+    "trading",
+    "backtesting",
+    "alphavantage",
+    "nodejs"
+  ],
+  "license": "MIT"
+}

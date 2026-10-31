@@ -1,0 +1,17 @@
+{
+  "name": "nifty50-top10-proxy",
+  "weighting": "equal",
+  "minSuccessfulSymbols": 3,
+  "symbols": [
+    "RELIANCE.BSE",
+    "TCS.BSE",
+    "INFY.BSE",
+    "HDFCBANK.BSE",
+    "ICICIBANK.BSE",
+    "ITC.BSE",
+    "SBIN.BSE",
+    "LT.BSE",
+    "BHARTIARTL.BSE",
+    "HINDUNILVR.BSE"
+  ]
+}

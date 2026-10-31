@@ -1,0 +1,13 @@
+{
+  "name": "verified-india-largecaps",
+  "weighting": "equal",
+  "minSuccessfulSymbols": 3,
+  "symbols": [
+    "RELIANCE.BSE",
+    "TCS.BSE",
+    "INFY.BSE",
+    "HDFCBANK.BSE",
+    "ICICIBANK.BSE",
+    "ITC.BSE"
+  ]
+}
